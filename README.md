@@ -9,7 +9,7 @@
 
 bash
 # Clone the repo
-git clone https://github.com/your-username/backend-intern-api.git
+git clone https://github.com/fadgadahababashirdev/aquacksrwanda-backend.git
 cd aquacksrwanda-backend
 
 # Install dependencies
